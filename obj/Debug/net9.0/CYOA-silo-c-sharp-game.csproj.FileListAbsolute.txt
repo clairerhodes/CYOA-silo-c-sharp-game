@@ -1,0 +1,14 @@
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/bin/Debug/net9.0/CYOA-silo-c-sharp-game
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/bin/Debug/net9.0/CYOA-silo-c-sharp-game.deps.json
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/bin/Debug/net9.0/CYOA-silo-c-sharp-game.runtimeconfig.json
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/bin/Debug/net9.0/CYOA-silo-c-sharp-game.dll
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/bin/Debug/net9.0/CYOA-silo-c-sharp-game.pdb
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.AssemblyInfoInputs.cache
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.AssemblyInfo.cs
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.csproj.CoreCompileInputs.cache
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.dll
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/refint/CYOA-silo-c-sharp-game.dll
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.pdb
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.genruntimeconfig.cache
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/ref/CYOA-silo-c-sharp-game.dll
