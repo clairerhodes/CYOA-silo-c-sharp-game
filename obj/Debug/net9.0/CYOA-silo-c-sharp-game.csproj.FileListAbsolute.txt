@@ -12,3 +12,4 @@
 /Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.pdb
 /Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.genruntimeconfig.cache
 /Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/ref/CYOA-silo-c-sharp-game.dll
+/Users/clairerhodes/code/ga/labs/final-projects/CYOA-silo-c-sharp-game/obj/Debug/net9.0/CYOA-silo-c-sharp-game.sourcelink.json

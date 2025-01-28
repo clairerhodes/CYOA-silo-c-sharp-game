@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CYOA-silo-c-sharp-game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a6285d1692a3835fcb8c3762750d7c2689226b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CYOA-silo-c-sharp-game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CYOA-silo-c-sharp-game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
